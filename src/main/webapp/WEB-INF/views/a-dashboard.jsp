@@ -63,7 +63,7 @@
       <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="dropdown01" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Employee</a>
         <div class="dropdown-menu" aria-labelledby="dropdown01">
-          <a class="dropdown-item" href="./employee/registration">Add new employee</a>
+          <a class="dropdown-item" href="./employee/registration?comId=aaa">Add new employee</a>
           <a class="dropdown-item" href="./employee/all">Employees</a>
         </div>
       </li>
